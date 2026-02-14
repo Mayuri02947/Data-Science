@@ -1,0 +1,10 @@
+# Asking user information
+name = input("What is your name? ")
+age = input("How old are you? ")
+hobby = input("What is your favorite hobby? ")
+
+# Displaying friendly welcome message
+print("\nHello " + name + "! ")
+print("Wow, " + age + " years old and already doing amazing things!")
+print("It's great that you enjoy " + hobby + ". That sounds fun! ")
+print("Welcome! We're happy to have you here! ")
